@@ -1,8 +1,0 @@
-<html>
-<head>
-<title> الكلية التطبيقية</title>
-</head>
-<body>
-<h6>الاستاذ ابراهيم أيوب</h6>
-</body>
-</html>
